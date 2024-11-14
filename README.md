@@ -1,0 +1,2 @@
+# swingautoclick
+ Minimal preconfigured autoclicker.
